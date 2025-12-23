@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> Marco para crear aplicaciones del lado del servidor eficientes y escalables.</p>
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
@@ -21,17 +21,17 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
-## Description
+## Descripcion
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) Repositorio de inicio del framework TypeScript.
 
-## Project setup
+## Configuración del proyecto
 
 ```bash
 $ npm install
 ```
 
-## Compile and run the project
+## Compilar y ejecutar el proyecto
 
 ```bash
 # development
@@ -44,7 +44,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Run tests
+## Ejecutar pruebas
 
 ```bash
 # unit tests
@@ -57,42 +57,41 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-## Deployment
+## Desarrollo
 
-When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
+Cuando esté listo para implementar su aplicación NestJS en producción, hay algunos pasos clave que puede seguir para garantizar que funcione de la manera más eficiente posible. Consulte [deployment documentation](https://docs.nestjs.com/deployment) para mas informacion.
 
-If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
+Si está buscando una plataforma basada en la nube para implementar su aplicación NestJS, consulte [Mau](https://mau.nestjs.com), Nuestra plataforma oficial para implementar aplicaciones NestJS en AWS. Mau simplifica y agiliza la implementación, con solo unos sencillos pasos:
 
 ```bash
 $ npm install -g @nestjs/mau
 $ mau deploy
 ```
+Con Mau, puedes implementar tu aplicación con solo unos pocos clics, lo que te permite concentrarte en desarrollar funciones en lugar de administrar la infraestructura.
 
-With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
+## Recursos
 
-## Resources
+Consulte algunos recursos que pueden resultar útiles al trabajar con NestJS:
 
-Check out a few resources that may come in handy when working with NestJS:
+- Visita [NestJS Documentation](https://docs.nestjs.com) para saber mas acerca del framework.
+- Para preguntas y soporte, porfavor visita [Discord channel](https://discord.gg/G7Qnnhy).
+- Para profundizar y obtener más experiencia práctica, consulte nuestro video oficial. [courses](https://courses.nestjs.com/).
+- Implemente su aplicación en AWS con la ayuda de [NestJS Mau](https://mau.nestjs.com) en sólo unos pocos clics.
+- Visualice el gráfico de su aplicación e interactúe con la aplicación NestJS en tiempo real usando [NestJS Devtools](https://devtools.nestjs.com).
+- ¿Necesitas ayuda con tu proyecto (de medio tiempo a tiempo completo)? Consulta nuestro sitio web oficial. [enterprise support](https://enterprise.nestjs.com).
+- Para estar al día y recibir actualizaciones, síguenos en [X](https://x.com/nestframework) y en [LinkedIn](https://linkedin.com/company/nestjs).
+- ¿Buscas trabajo o tienes un trabajo que ofrecer? Consulta nuestra página oficial [Jobs board](https://jobs.nestjs.com).
 
-- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
-- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
-- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
-- Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
-- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
-- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
-- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
-- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
+## Soporte
 
-## Support
+Nest es un proyecto de código abierto con licencia del MIT. Puede crecer gracias a los patrocinadores y al apoyo de sus increíbles patrocinadores. Si quieres unirte a ellos, por favor... [read more here](https://docs.nestjs.com/support).
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
+## Mantente en contacto
 
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
 - Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- x (Ex Twitter - [@nestframework](https://twitter.com/nestframework)
 
-## License
+## Licencia
 
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+Nest es [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
